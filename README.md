@@ -10,6 +10,8 @@ For students and developers interested in Java programming and GUI development, 
 
 In conclusion, the "javabankscards" repository is a beneficial tool for anyone looking to enhance their knowledge of Java programming and GUI development. Its user-friendly interface and practical functionalities make it a reliable tool for simulating real-world banking activities.
 
+FOR MORE DETAIL INFORMATION OF THE PROJECT THERE IS REPORT PDF GIVEN PLEASE GO THROUGH IT
+
 Screenshots of Project
 
 ![Screenshot 2023-05-12 174159](https://github.com/mirajdeepbhandari/javaBankCards/assets/40092465/68877d47-ba91-46d1-8520-868d7bf405c2)
